@@ -1,2 +1,3 @@
-# Hello-world
-just a normal repository
+Hello everybody.
+My name is Pawel.
+I am learning coding mostly html and css for now 
